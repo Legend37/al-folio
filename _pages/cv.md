@@ -10,5 +10,3 @@ description: Education, research experience, publications, projects, and technic
 toc:
   sidebar: left
 ---
-
-[Download the Chinese CV](/assets/pdf/cv_zh.pdf).

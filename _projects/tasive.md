@@ -6,6 +6,8 @@ importance: 2
 category: coursework
 ---
 
+[Source code and latest updates on GitHub](https://github.com/Legend37/TASiVe)
+
 TASIVE is an offline signature-verification system built around a Swin-T Siamese network, a lightweight MLP projection head, L2-normalized 128-dimensional embeddings, and a scaled cosine binary-cross-entropy objective.
 
 The evaluation uses a strict writer-disjoint train/validation split to prevent identity leakage and a fixed all-pairs validation set of 5,748 signature pairs.

@@ -1,6 +1,9 @@
 github_users:
-  - LucianZht
+  - Legend37
 
 repo_description_lines_max: 2
 
-github_repos: []
+github_repos:
+  - Legend37/FinAgentOS
+  - Legend37/TASiVe
+  - Legend37/Qt_2D_Game

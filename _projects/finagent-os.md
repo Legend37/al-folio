@@ -6,6 +6,8 @@ importance: 1
 category: coursework
 ---
 
+[Source code and latest updates on GitHub](https://github.com/Legend37/FinAgentOS)
+
 FinAgent OS is a LangGraph- and FastAPI-based multi-agent system that coordinates user profiling, asset screening, market timing, critic review, and compliance auditing across 54 instruments in nine asset classes.
 
 The system separates LLM reasoning from deterministic quantitative computation. It implements Markowitz optimization, risk parity, 3,000-path Monte Carlo simulation, VaR/CVaR, stress testing, backtesting, and performance attribution.
